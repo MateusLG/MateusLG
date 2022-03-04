@@ -25,7 +25,3 @@ a
 
 # Social Medias
 ![Instagram](https://img.shields.io/badge/waremateus-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Twitter](https://img.shields.io/badge/LG_Mateuz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![YouTube](https://img.shields.io/badge/Mateus_Lira-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
-# Donations
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 0x2c796EbFEc029fe6bA76527089c527f58F86DE71
-
