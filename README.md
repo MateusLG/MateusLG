@@ -46,6 +46,6 @@ Here’s what I’m usually learning and working with.
 
 ## 👨🏽‍💻 &nbsp;About Me
  
- - 📫 Reach me: [mateuslira3105@gmail.com](mateuslira3105@gmail.com)  
+ - 📫 Reach me: [mateuslira3105@gmail.com](mailto:mateuslira3105@gmail.com)  
  - 🌐 Linkedin: [lgmateus](https://www.linkedin.com/in/lgmateus/)
 ---
