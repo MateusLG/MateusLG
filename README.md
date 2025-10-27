@@ -8,8 +8,6 @@
   Hey there! I'm a Junior Backend Developer with 5+ years of coding and 12+ years general experience with computers.
 </p>
 
----
-
 ## 🛠 &nbsp;Tech Stack
 
 Here’s what I’m usually learning and working with.
