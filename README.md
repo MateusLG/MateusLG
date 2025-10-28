@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=allysonbarros&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<h1 align="left">Hi 👋, I'm Mateus Lira.</h1>
+<h1 align="left">Hi, I'm Mateus Lira.</h1>
 
 <p align="left">
   Hey there! I'm a Junior Backend Developer with 5+ years of coding and 12+ years general experience with computers.
