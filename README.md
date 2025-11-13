@@ -48,4 +48,5 @@ Here’s what I’m usually learning and working with.
  
  - 📫 Reach me: [mateuslira3105@gmail.com](mailto:mateuslira3105@gmail.com)  
  - 🌐 Linkedin: [lgmateus](https://www.linkedin.com/in/lgmateus/)
+ - 📍 Website: https://lgmateus.vercel.app/
 ---
