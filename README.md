@@ -1,6 +1,6 @@
 # Mateus Lira Gomes
 
-Tech lead and senior fullstack engineer based in Brasília, Brazil.
+Fullstack Dev based in Brasília, Brazil.
 
 I build and run production systems end to end — backend services, web and mobile frontends, data modeling, and the cloud infrastructure everything runs on. I work mainly with **Python**, **TypeScript**, **PHP**, and **Ruby**.
 
