@@ -8,6 +8,5 @@ Day to day that means designing APIs and distributed systems, shipping React fro
 
 ## Contact
 
-- **Email:** [contato@lgmateus.com](mailto:contato@lgmateus.com)
+- **Email:** [contato@lgmateus.com](mailto:mateus@kodium.ai)
 - **LinkedIn:** [lgmateus](https://www.linkedin.com/in/lgmateus/)
-- **Website:** [lgmateus.com](https://lgmateus.com/)
