@@ -1,4 +1,4 @@
-# Mateus Lira Gomes
+# Mateus Lira
 
 Fullstack Dev based in Brasília, Brazil.
 
